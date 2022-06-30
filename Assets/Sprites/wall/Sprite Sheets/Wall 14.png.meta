@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: c9acce9c6657d694e8ce0f449895cc15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1501395778587217813
+    second: colored people photos 1
+  - first:
+      213: 8536253469044687660
+    second: colored people photos 2
+  - first:
+      213: 2461174413565365903
+    second: colored people photos 3
+  - first:
+      213: 810111981853643814
+    second: colored people photos 4
+  - first:
+      213: 4975840730675963664
+    second: colored people photos 5
+  - first:
+      213: -1151133348215393326
+    second: colored people photos 6
+  - first:
+      213: 4971644524108386463
+    second: colored people photos 7
+  - first:
+      213: -8836202623505231052
+    second: colored people photos 8
+  - first:
+      213: 313280872835942896
+    second: colored people photos 9
+  - first:
+      213: -6169108835779613338
+    second: colored people photos 10
+  - first:
+      213: 8108197373563648401
+    second: colored people photos 11
+  - first:
+      213: -3110466914354269099
+    second: colored people photos 12
+  - first:
+      213: 678615917815250465
+    second: colored people photos 13
+  - first:
+      213: -9219313927633456545
+    second: colored people photos 14
+  - first:
+      213: 2781366120550358015
+    second: flowers 1
+  - first:
+      213: 6951802225493370861
+    second: flowers 2
+  - first:
+      213: 6940962496234565401
+    second: flowers 3
+  - first:
+      213: 927208874816177580
+    second: flowers 4
+  - first:
+      213: 92265881478669890
+    second: flowers 5
+  - first:
+      213: 8395039417335467040
+    second: flowers 6
+  - first:
+      213: 8744743488852992948
+    second: flowers 7
+  - first:
+      213: 7488085538576875756
+    second: flowers 8
+  - first:
+      213: -5638327107481625982
+    second: flowers 9
+  - first:
+      213: 8936338244604446178
+    second: flowers 10
+  - first:
+      213: -413482168359151855
+    second: flowers 11
+  - first:
+      213: 1069150475699483103
+    second: flowers 12
+  - first:
+      213: -8666435586744880286
+    second: flowers 13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: colored people photos 1
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1803
+        width: 344
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f46f1818706d410800000000000000
+      internalID: 1501395778587217813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 2
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1557
+        width: 340
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23ca179d4dd67670800000000000000
+      internalID: 8536253469044687660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1803
+        width: 708
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e08dad619d72220800000000000000
+      internalID: 2461174413565365903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 4
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1141
+        width: 252
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6249caa2e881e3b00800000000000000
+      internalID: 810111981853643814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1465
+        width: 160
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0176cda08ccbd0540800000000000000
+      internalID: 4975840730675963664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1561
+        width: 248
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3f38a915a5600f0800000000000000
+      internalID: -1151133348215393326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 7
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1161
+        width: 252
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f901ff09a54def440800000000000000
+      internalID: 4971644524108386463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 8
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 25
+        width: 248
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4339896b7808f5580800000000000000
+      internalID: -8836202623505231052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 248
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f98f444b4ff85400800000000000000
+      internalID: 313280872835942896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1087
+        width: 252
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66de1aef23ce26aa0800000000000000
+      internalID: -6169108835779613338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 183
+        width: 156
+        height: 956
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199340c5d8a168070800000000000000
+      internalID: 8108197373563648401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 125
+        width: 160
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554fe4442d665d4d0800000000000000
+      internalID: -3110466914354269099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 183
+        width: 156
+        height: 956
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ebd40f49dea6900800000000000000
+      internalID: 678615917815250465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored people photos 14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1087
+        width: 156
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52b89e24da6e0080800000000000000
+      internalID: -9219313927633456545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 1
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1347
+        width: 308
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbd5b510c5699620800000000000000
+      internalID: 2781366120550358015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1157
+        width: 164
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de76d47ba43c97060800000000000000
+      internalID: 6951802225493370861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 3
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1387
+        width: 172
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fae539d90435060800000000000000
+      internalID: 6940962496234565401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 13
+        width: 248
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca502002f8b1edc00800000000000000
+      internalID: 927208874816177580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 5
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1569
+        width: 224
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246ac62945bc74100800000000000000
+      internalID: 92265881478669890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1153
+        width: 248
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ccea90fdb218470800000000000000
+      internalID: 8395039417335467040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 7
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1803
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b32ef81fd19b5970800000000000000
+      internalID: 8744743488852992948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 8
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 661
+        width: 120
+        height: 684
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce04d9eaf160be760800000000000000
+      internalID: 7488085538576875756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 443
+        width: 156
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a1a1f6e53a0c1b0800000000000000
+      internalID: -5638327107481625982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 10
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 657
+        width: 120
+        height: 688
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5c2666940440c70800000000000000
+      internalID: 8936338244604446178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1407
+        width: 356
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1179ef99824034af0800000000000000
+      internalID: -413482168359151855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 12
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1229
+        width: 292
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1f18b61b266de00800000000000000
+      internalID: 1069150475699483103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers 13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 515
+        width: 156
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263744720c2aab780800000000000000
+      internalID: -8666435586744880286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

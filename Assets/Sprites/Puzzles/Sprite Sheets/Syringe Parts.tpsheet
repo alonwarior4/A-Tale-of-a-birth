@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b20f9b08e6415e9d87116b9ec191b129:30d61764cc3bfb17a07880a1da218276:16224b9574f103e23b3186a276c46f43$
+#
+:format=40300
+:texture=Syringe Parts.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+Lazer;43;447;360;64; 0;0.5; 0;0;0;0; 4;360;0;0;0;0;64;360;64; 2;1;2;3;0;1;3
+sorang back;227;225;256;220; 0.5;0.5; 0;0;0;0; 13;188;210;231;183;256;125;256;10;159;0;104;0;92;9;0;9;0;139;44;202;91;218;108;220;157;220; 11;6;11;12;10;6;8;8;9;10;10;11;6;6;7;8;0;4;6;4;5;6;2;3;4;0;2;4;0;1;2;0;6;12
+sorang colored part1;1;305;224;140; 0.5;0.5; 0;0;0;0; 11;176;127;224;82;224;0;145;0;110;25;81;0;0;0;0;52;20;109;73;140;143;140; 9;4;9;10;8;4;7;8;9;4;5;6;7;4;5;7;4;1;3;4;0;1;3;1;2;0;4;10
+sorang colored part2;1;471;40;40; 0.5;0.5; 0;0;0;0; 5;40;31;40;0;0;0;0;40;31;40; 3;2;3;4;0;1;2;0;2;4

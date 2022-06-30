@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:39a0ed2d0004dbe87f53b61439fced41:45de5c404005580e4f323fc5a58997eb:939a22bd468d0c07dddef7160c09e0c5$
+#
+:format=40300
+:texture=Watch Parts.png
+:size=256x1024
+:pivotpoints=enabled
+:borders=disabled
+
+big watch handel;1;959;8;64; 0.5;0.04688000000000003; 0;0;0;0
+small watch handel;11;979;8;44; 0.45;0.04545454999999998; 0;0;0;0
+watch dot;21;1014;9;9; 0.5;0.5; 0;0;0;0
+watch;32;123;144;900; 0.5;0.5; 0;0;0;0

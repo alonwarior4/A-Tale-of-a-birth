@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Existed
+  - ND
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Syringe
+  - Virus
+  - Laser
+  - Blocker
+  - PostPro
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 2540448025
+    locked: 0
+  - name: Desk
+    uniqueID: 1023091953
+    locked: 0
+  - name: UI
+    uniqueID: 3695407107
+    locked: 0
+  - name: ChangeScene
+    uniqueID: 3419060849
+    locked: 0
+  - name: Loading
+    uniqueID: 1964756177
+    locked: 0

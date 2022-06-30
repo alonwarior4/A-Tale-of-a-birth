@@ -1,0 +1,355 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e10b41ffae3f386479323f2a209d0f82, type: 3}
+  m_Name: Ws13
+  m_EditorClassIdentifier: 
+  actions:
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: -5346402259023812797, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: 0.329, y: 1.929, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: 2407288119362711226, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: -0.579, y: -1.196, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: 2598618118973640856, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: 1.25, y: 2.375, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: 5109978219416956060, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: 2.404, y: -0.307, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: 3658383678798953222, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: -1.0464, y: 2.1506, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: -4275787293368822941, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: -2.181, y: -0.764, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: 5424884292372051389, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: -2.18, y: 2.364, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: 2494711525835902362, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: 2.398, y: -1.418, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: -7485422400058711313, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: 3.771, y: 0.588, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: 7268924832631158784, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: -3.568, y: 0.59, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: -8008462769622621200, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: 4.907, y: 0.588, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: -7865701274331685622, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: -4.708, y: 0.595, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.5
+    w_IsCamera: 0
+    w_sprite: {fileID: 4026775778059431399, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: 5.826, y: 0.594, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 1
+    w_Trigger: []
+    w_UseLater: 1
+    w_IsSimultaneously: 1
+    w_WaitTime: 0.75
+    w_IsCamera: 0
+    w_sprite: {fileID: 1034650034831699304, guid: c0b91292aec284b4e8f3eaa16037ac6b, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 1
+    w_SortingLayer: 2
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: -5.615, y: 0.59, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 3
+    w_Trigger: []
+    w_UseLater: 0
+    w_IsSimultaneously: 0
+    w_WaitTime: 1
+    w_IsCamera: 0
+    w_sprite: {fileID: 21300000, guid: 8a8184da92b3bf549a9b0250ae76d102, type: 3}
+    w_ReplaceSprite: {fileID: 21300000, guid: 38f3ca5628a32f54db91367ab53d99bc, type: 3}
+    w_FTime: 0.7
+    w_SortingLayer: 1
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: wall 5 preview
+    w_IsExistInScene: 1
+    w_sortingLayerName: Wall
+    w_Position: {x: -5.615, y: 0.59, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 3
+    w_Trigger: []
+    w_UseLater: 0
+    w_IsSimultaneously: 0
+    w_WaitTime: 1
+    w_IsCamera: 0
+    w_sprite: {fileID: 21300000, guid: 8a8184da92b3bf549a9b0250ae76d102, type: 3}
+    w_ReplaceSprite: {fileID: 21300000, guid: f975ea116d5e29648a4641752b448697, type: 3}
+    w_FTime: 0.7
+    w_SortingLayer: 1
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: wall5 blur
+    w_IsExistInScene: 1
+    w_sortingLayerName: Wall
+    w_Position: {x: -5.615, y: 0.59, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - w_Action: 5
+    w_Trigger: []
+    w_UseLater: 0
+    w_IsSimultaneously: 1
+    w_WaitTime: 1
+    w_IsCamera: 0
+    w_sprite: {fileID: 21300000, guid: 8a8184da92b3bf549a9b0250ae76d102, type: 3}
+    w_ReplaceSprite: {fileID: 0}
+    w_FTime: 0.7
+    w_SortingLayer: 1
+    w_FSound: {fileID: 0}
+    w_audioVolume: 0
+    w_SetChildDesk: 0
+    w_AnimPrefab: {fileID: 0}
+    w_ObjName: 
+    w_IsExistInScene: 0
+    w_sortingLayerName: Wall
+    w_Position: {x: -5.615, y: 0.59, z: 0}
+    w_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    w_Scale: {x: 0.5, y: 0.5, z: 0.5}

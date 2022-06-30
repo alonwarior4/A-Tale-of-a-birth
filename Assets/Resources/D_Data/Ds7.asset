@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d85dc24a229c944da7fb504b0003a32, type: 3}
+  m_Name: Ds7
+  m_EditorClassIdentifier: 
+  deskActions:
+  - d_DeskJob: 6
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 0
+    d_IsCamera: 1
+    d_Sprite: {fileID: 0}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: microscope zoomin
+    d_animSpeed: 1
+    d_Position: {x: 0, y: 0, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 3
+    d_PuzzlePrefab: {fileID: 3771687339928277835, guid: 2d7bbe306ffe82d46865614715b789ea, type: 3}
+    d_PuzzleTryTime: 5
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 0
+    d_Sprite: {fileID: 21300000, guid: bc052c061723b4140bf3f1cb2c2e8ae7, type: 3}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 10
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: 
+    d_animSpeed: 0
+    d_Position: {x: -0.283, y: 1.274, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 6
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 1
+    d_IsCamera: 1
+    d_Sprite: {fileID: 0}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: microscope zoomout
+    d_animSpeed: 1
+    d_Position: {x: 0, y: 0, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 4
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 0.2
+    d_IsCamera: 0
+    d_Sprite: {fileID: -5292142263246460107, guid: f6821fe9f2dddb04bbf0b8a5adaf2279, type: 3}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0.7
+    d_SortingOrder: 1
+    d_SortingLayerName: Desk
+    d_Sound: {fileID: 8300000, guid: 60c7f47d3a5bf3243a88feb48013d220, type: 3}
+    d_Volume: 0.5
+    d_SetWallChild: 0
+    d_UseLater: 1
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: 
+    d_animSpeed: 0
+    d_Position: {x: 2.311, y: -0.384, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - d_DeskJob: 4
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 0
+    d_Sprite: {fileID: 204891732439788687, guid: f6821fe9f2dddb04bbf0b8a5adaf2279, type: 3}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0.7
+    d_SortingOrder: 1
+    d_SortingLayerName: Desk
+    d_Sound: {fileID: 8300000, guid: 9ead3983f07b9484ba338172a72ef1b4, type: 3}
+    d_Volume: 0.5
+    d_SetWallChild: 0
+    d_UseLater: 1
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: 
+    d_animSpeed: 0
+    d_Position: {x: 2.727, y: -0.998, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.25, y: 0.25, z: 0.25}
+  - d_DeskJob: 5
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 0
+    d_Sprite: {fileID: -5431910179786426872, guid: f01dccf8238ae6c4aa3d6151fb2edbe0, type: 3}
+    d_ReplaceSprite: {fileID: 21300000, guid: c0b066c500f435849828baf936186039, type: 3}
+    d_Ftime: 1
+    d_SortingOrder: 2
+    d_SortingLayerName: Desk
+    d_Sound: {fileID: 8300000, guid: 857532696fc9390478fe33a44545a8a6, type: 3}
+    d_Volume: 0.5
+    d_SetWallChild: 0
+    d_UseLater: 1
+    d_isExistInScene: 1
+    d_ObjName: desk 1
+    d_triggerName: 
+    d_animSpeed: 0
+    d_Position: {x: 3.1391656, y: -0.9630871, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.7, y: 0.7, z: 0.7}

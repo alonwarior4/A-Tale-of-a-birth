@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:60caf2565d642378b47a42306eb78106:a6e7a40b4950dc0012af46989bf672b7:25053181a89dae3235ec098dc3fd9009$
+#
+:format=40300
+:texture=virus Coloring.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+Coloring_00001;1;443;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00002;71;443;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00003;141;443;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00004;211;443;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00005;281;443;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00006;351;443;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00007;421;443;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00008;1;373;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00009;71;373;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00010;141;373;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00011;211;373;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00012;281;373;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00013;351;373;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00014;421;373;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00015;1;303;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00016;71;303;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00017;141;303;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00018;211;303;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00019;281;303;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00020;351;303;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00021;421;303;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00022;1;233;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00023;71;233;68;68; 0.5;0.5; 0;0;0;0
+Coloring_00024;141;233;68;68; 0.5;0.5; 0;0;0;0

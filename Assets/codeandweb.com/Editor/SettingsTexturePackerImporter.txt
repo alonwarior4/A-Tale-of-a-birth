@@ -1,0 +1,114 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprites/clock/Clock.tpsheet
+- Assets/Sprites/desk/DeskObj.tpsheet
+- Assets/Sprites/desk/Sprite Sheets/Desk.tpsheet
+- Assets/Sprites/MicrosCope/Mask Micro.tpsheet
+- Assets/Sprites/Puzzles/sorang/syringe fillig.tpsheet
+- Assets/Sprites/Puzzles/Sprite Sheets/P_front parts.tpsheet
+- Assets/Sprites/Puzzles/Sprite Sheets/Syringe Parts.tpsheet
+- Assets/Sprites/Puzzles/virus/virus Coloring.tpsheet
+- Assets/Sprites/Puzzles/virus/virus vfx.tpsheet
+- Assets/Sprites/Story Animations/scene 1.tpsheet
+- Assets/Sprites/Story Animations/scene 10 -2.tpsheet
+- Assets/Sprites/Story Animations/scene 11.tpsheet
+- Assets/Sprites/Story Animations/scene 12.tpsheet
+- Assets/Sprites/Story Animations/scene 13.tpsheet
+- Assets/Sprites/Story Animations/scene 2.tpsheet
+- Assets/Sprites/Story Animations/scene 3 part 1.tpsheet
+- Assets/Sprites/Story Animations/scene 3 part 2.tpsheet
+- Assets/Sprites/Story Animations/scene 4.tpsheet
+- Assets/Sprites/Story Animations/scene 5.tpsheet
+- Assets/Sprites/Story Animations/scene 5-2.tpsheet
+- Assets/Sprites/Story Animations/scene 5-3.tpsheet
+- Assets/Sprites/Story Animations/scene 6 - 1year.tpsheet
+- Assets/Sprites/Story Animations/scene 6 - 2year.tpsheet
+- Assets/Sprites/Story Animations/scene 6 - 3year.tpsheet
+- Assets/Sprites/Story Animations/scene 7.tpsheet
+- Assets/Sprites/Story Animations/scene 8.tpsheet
+- Assets/Sprites/Story Animations/scene 9-1.tpsheet
+- Assets/Sprites/Story Animations/scene 9-2.tpsheet
+- Assets/Sprites/UI/UI Sprites.tpsheet
+- Assets/Sprites/wall/Sprite Sheets/Wall 13.tpsheet
+- Assets/Sprites/wall/Sprite Sheets/Wall 14.tpsheet
+- Assets/Sprites/wall/Sprite Sheets/Wall0_3.tpsheet
+- Assets/Sprites/wall/Sprite Sheets/Wall4_12.tpsheet
+- Assets/Sprites/watch/Watch Parts.tpsheet
+- Assets/Sprites/watch/watch.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprites/clock/Clock.png
+- Assets/Sprites/desk/DeskObj.png
+- Assets/Sprites/desk/Sprite Sheets/Desk.png
+- Assets/Sprites/MicrosCope/Mask Micro.png
+- Assets/Sprites/Puzzles/sorang/syringe fillig.png
+- Assets/Sprites/Puzzles/Sprite Sheets/P_front parts.png
+- Assets/Sprites/Puzzles/Sprite Sheets/Syringe Parts.png
+- Assets/Sprites/Puzzles/virus/virus Coloring.png
+- Assets/Sprites/Puzzles/virus/virus vfx.png
+- Assets/Sprites/Story Animations/scene 1.png
+- Assets/Sprites/Story Animations/scene 10 -2.png
+- Assets/Sprites/Story Animations/scene 11.png
+- Assets/Sprites/Story Animations/scene 12.png
+- Assets/Sprites/Story Animations/scene 13.png
+- Assets/Sprites/Story Animations/scene 2.png
+- Assets/Sprites/Story Animations/scene 3 part 1.png
+- Assets/Sprites/Story Animations/scene 3 part 2.png
+- Assets/Sprites/Story Animations/scene 4.png
+- Assets/Sprites/Story Animations/scene 5.png
+- Assets/Sprites/Story Animations/scene 5-2.png
+- Assets/Sprites/Story Animations/scene 5-3.png
+- Assets/Sprites/Story Animations/scene 6 - 1year.png
+- Assets/Sprites/Story Animations/scene 6 - 2year.png
+- Assets/Sprites/Story Animations/scene 6 - 3year.png
+- Assets/Sprites/Story Animations/scene 7.png
+- Assets/Sprites/Story Animations/scene 8.png
+- Assets/Sprites/Story Animations/scene 9-1.png
+- Assets/Sprites/Story Animations/scene 10-3.png
+- Assets/Sprites/UI/UI Sprites.png
+- Assets/Sprites/wall/Sprite Sheets/Wall 13.png
+- Assets/Sprites/wall/Sprite Sheets/Wall 14.png
+- Assets/Sprites/wall/Sprite Sheets/Wall0_3.png
+- Assets/Sprites/wall/Sprite Sheets/Wall4_12.png
+- Assets/Sprites/watch/Watch Parts.png
+- Assets/Sprites/watch/Watch.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: a9f23f8914de3a04f8d6c6dc6f1b6183
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1264262014509616235
+    second: syringe filling_00001
+  - first:
+      213: 8854382774714638955
+    second: syringe filling_00002
+  - first:
+      213: 8930535180627413355
+    second: syringe filling_00003
+  - first:
+      213: -4378086430303667767
+    second: syringe filling_00004
+  - first:
+      213: 7219927155992306341
+    second: syringe filling_00005
+  - first:
+      213: 7857611005856658124
+    second: syringe filling_00006
+  - first:
+      213: 1519829939043071511
+    second: syringe filling_00007
+  - first:
+      213: 3308781671595775483
+    second: syringe filling_00008
+  - first:
+      213: -6050559091380880572
+    second: syringe filling_00009
+  - first:
+      213: -8350804462329172207
+    second: syringe filling_00010
+  - first:
+      213: -4437528364725361433
+    second: syringe filling_00011
+  - first:
+      213: 8195551008280754333
+    second: syringe filling_00012
+  - first:
+      213: -5721524674620667060
+    second: syringe filling_00013
+  - first:
+      213: -572958597274810926
+    second: syringe filling_00014
+  - first:
+      213: -2655545760470762186
+    second: syringe filling_00015
+  - first:
+      213: -9209745883582729743
+    second: syringe filling_00016
+  - first:
+      213: -7544222787836313749
+    second: syringe filling_00017
+  - first:
+      213: -5403505046749238158
+    second: syringe filling_00018
+  - first:
+      213: 2669545812110951623
+    second: syringe filling_00019
+  - first:
+      213: -795895259413121975
+    second: syringe filling_00020
+  - first:
+      213: 9048649022172549096
+    second: syringe filling_00021
+  - first:
+      213: 2621647707827049131
+    second: syringe filling_00022
+  - first:
+      213: 3058129853974246997
+    second: syringe filling_00023
+  - first:
+      213: 1947329225949691633
+    second: syringe filling_00024
+  - first:
+      213: -9122194544965325696
+    second: syringe filling_00025
+  - first:
+      213: -9942912539738236
+    second: syringe filling_00026
+  - first:
+      213: -5039929797614361446
+    second: syringe filling_00027
+  - first:
+      213: 4885358548659808564
+    second: syringe filling_00028
+  - first:
+      213: 3314816442037132557
+    second: syringe filling_00029
+  - first:
+      213: 4539932593882872388
+    second: syringe filling_00030
+  - first:
+      213: 8336877310628331407
+    second: syringe filling_00031
+  - first:
+      213: -2509521760637391695
+    second: syringe filling_00032
+  - first:
+      213: -4124378597408110457
+    second: syringe filling_00033
+  - first:
+      213: 4821242958025582446
+    second: syringe filling_00034
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: syringe filling_00001
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 120
+        width: 216
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593722a6560747ee0800000000000000
+      internalID: -1264262014509616235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00002
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 120
+        width: 216
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b622438983611ea70800000000000000
+      internalID: 8854382774714638955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00003
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 120
+        width: 216
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b690d674e62afeb70800000000000000
+      internalID: 8930535180627413355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00004
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 120
+        width: 216
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9bac57699ed33c0800000000000000
+      internalID: -4378086430303667767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00005
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 120
+        width: 216
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a22e1dde75523460800000000000000
+      internalID: 7219927155992306341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00006
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 120
+        width: 216
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc239431497db0d60800000000000000
+      internalID: 7857611005856658124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00007
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 120
+        width: 216
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7167aa3f645871510800000000000000
+      internalID: 1519829939043071511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00008
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 121
+        width: 216
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf51ace46672bed20800000000000000
+      internalID: 3308781671595775483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 124
+        width: 217
+        height: 131
+      alignment: 9
+      pivot: {x: 0.51152074, y: 0.5114504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b7bb94098180ca0800000000000000
+      internalID: -6050559091380880572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00010
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 128
+        width: 216
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.51968503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f6f12069bfb1c80800000000000000
+      internalID: -8350804462329172207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 216
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e423db967bba62c0800000000000000
+      internalID: -4437528364725361433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00012
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 140
+        width: 216
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.57391304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d983b2b58327cb170800000000000000
+      internalID: 8195551008280754333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00013
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 153
+        width: 216
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b4a935f9f0990b0800000000000000
+      internalID: -5721524674620667060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00014
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 54
+        width: 216
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.68041235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5cd6201317c08f0800000000000000
+      internalID: -572958597274810926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00015
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 45
+        width: 216
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.7096774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d7856533b952bd0800000000000000
+      internalID: -2655545760470762186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00016
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 35
+        width: 216
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.72527474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f17f690ae8603080800000000000000
+      internalID: -9209745883582729743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00017
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 35
+        width: 216
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.78571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ffb9078598d4790800000000000000
+      internalID: -7544222787836313749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00018
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 39
+        width: 216
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.835443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c2b7af9c4e205b0800000000000000
+      internalID: -5403505046749238158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00019
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 46
+        width: 216
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c44182b5c12c0520800000000000000
+      internalID: 2669545812110951623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00020
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 52
+        width: 216
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5092593, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94473487a7964f4f0800000000000000
+      internalID: -795895259413121975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00021
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 59
+        width: 216
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5092593, y: 1.1186441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efc7c70852439d70800000000000000
+      internalID: 9048649022172549096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00022
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1
+        width: 216
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5092593, y: 1.1785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba29f3f33b6f16420800000000000000
+      internalID: 2621647707827049131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00023
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 5
+        width: 216
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5092593, y: 1.4042553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556f62746e8a07a20800000000000000
+      internalID: 3058129853974246997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00024
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 7
+        width: 211
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49763033, y: 1.8055556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb7751d9d460b10800000000000000
+      internalID: 1947329225949691633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00025
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 22
+        width: 210
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4952381, y: 2.3214285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ce55f8464776180800000000000000
+      internalID: -9122194544965325696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00026
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 21
+        width: 210
+        height: 23
+      alignment: 9
+      pivot: {x: 0.4952381, y: 2.826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f390649fcacdff0800000000000000
+      internalID: -9942912539738236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00027
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 14
+        width: 210
+        height: 23
+      alignment: 9
+      pivot: {x: 0.4952381, y: 2.826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a942a404d829e0ab0800000000000000
+      internalID: -5039929797614361446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00028
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2
+        width: 210
+        height: 18
+      alignment: 9
+      pivot: {x: 0.4952381, y: 3.6111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439294d57b74cc340800000000000000
+      internalID: 4885358548659808564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00029
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 4
+        width: 210
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4952381, y: 4.3333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d5f3bcdf7900e20800000000000000
+      internalID: 3314816442037132557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00030
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1
+        width: 210
+        height: 11
+      alignment: 9
+      pivot: {x: 0.4952381, y: 5.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a3b9af3a4110f30800000000000000
+      internalID: 4539932593882872388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00031
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 17
+        width: 202
+        height: 16
+      alignment: 9
+      pivot: {x: 0.47524753, y: 4.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ff30c4eb982b370800000000000000
+      internalID: 8336877310628331407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00032
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 12
+        width: 185
+        height: 11
+      alignment: 9
+      pivot: {x: 0.42702702, y: 5.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc681531436c2dd0800000000000000
+      internalID: -2509521760637391695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00033
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 25
+        width: 210
+        height: 8
+      alignment: 9
+      pivot: {x: 0.4952381, y: 8.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788044e748343c6c0800000000000000
+      internalID: -4124378597408110457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: syringe filling_00034
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 252
+        width: 5
+        height: 3
+      alignment: 9
+      pivot: {x: -20.2, y: 21.666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e7f02dee78e240800000000000000
+      internalID: 4821242958025582446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

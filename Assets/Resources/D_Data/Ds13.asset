@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d85dc24a229c944da7fb504b0003a32, type: 3}
+  m_Name: Ds13
+  m_EditorClassIdentifier: 
+  deskActions:
+  - d_DeskJob: 6
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 0
+    d_IsCamera: 0
+    d_Sprite: {fileID: 0}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 1
+    d_ObjName: PPS10
+    d_triggerName: PP13
+    d_animSpeed: 1
+    d_Position: {x: 0, y: 0, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 6
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 0
+    d_IsCamera: 0
+    d_Sprite: {fileID: 0}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 1
+    d_ObjName: PPS13
+    d_triggerName: PP13
+    d_animSpeed: 1
+    d_Position: {x: 0, y: 0, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 6
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 0
+    d_IsCamera: 1
+    d_Sprite: {fileID: 0}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: microscope zoomin
+    d_animSpeed: 1
+    d_Position: {x: 0, y: 0, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 3
+    d_PuzzlePrefab: {fileID: 3466515871482266690, guid: a2448cb5e4286d349ad5e54e754660e1, type: 3}
+    d_PuzzleTryTime: 10
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 0
+    d_Sprite: {fileID: 21300000, guid: cbc2fc48cb4f66042840d329b216ad28, type: 3}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 10
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: 
+    d_animSpeed: 0
+    d_Position: {x: -0.263, y: 1.28, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 3
+    d_PuzzlePrefab: {fileID: 3747155428741196538, guid: 672dc042484466f458a04d1c4945aaa4, type: 3}
+    d_PuzzleTryTime: 10
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 0
+    d_Sprite: {fileID: 21300000, guid: cbc2fc48cb4f66042840d329b216ad28, type: 3}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 10
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: 
+    d_animSpeed: 0
+    d_Position: {x: -0.322, y: 1.313, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 6
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 0.5
+    d_IsCamera: 1
+    d_Sprite: {fileID: 0}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: microscope zoomout
+    d_animSpeed: 1
+    d_Position: {x: 0, y: 0, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 6
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 4
+    d_IsCamera: 0
+    d_Sprite: {fileID: 0}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 1
+    d_ObjName: PPS13
+    d_triggerName: PP13L
+    d_animSpeed: 1
+    d_Position: {x: 0, y: 0, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    d_Scale: {x: 0, y: 0, z: 0}

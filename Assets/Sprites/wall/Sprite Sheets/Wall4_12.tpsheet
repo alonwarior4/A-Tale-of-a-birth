@@ -1,0 +1,29 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:60fd6071e17cb1bf551ddc6e9c7ce223:79308e785e94ce6885ce2f2d7a1c1356:d86f36f558ca6f5b8d996d60059633ce$
+#
+:format=40300
+:texture=Wall4_12.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+bended flower vase;35;951;44;72; 0.5;0.5; 0;0;0;0
+child table;837;831;164;192; 0.5;0.5; 0;0;0;0
+child table2;671;831;164;192; 0.5;0.5; 0;0;0;0
+closed window;275;501;272;328; 0.5;0.5; 0;0;0;0
+doll;333;891;76;132; 0.5;0.5; 0;0;0;0
+fallen flower vase;1;947;32;76; 0.5;0.5; 0;0;0;0
+hat;411;971;104;52; 0.5;0.5; 0;0;0;0
+night window;1;501;272;328; 0.5;0.5; 0;0;0;0
+toy1;263;951;68;72; 0.5;0.5; 0;0;0;0
+toy2;81;999;48;24; 0.5;0.5; 0;0;0;0
+toys3;517;951;152;72; 0.5;0.5; 0;0;0;0
+vase flower;193;847;68;176; 0.5;0.5; 0;0;0;0
+vase sprout;131;839;60;184; 0.5;0.5; 0;0;0;0
+window flowertree;549;501;276;328; 0.5;0.5; 0;0;0;0
+window greentree;1;171;276;328; 0.5;0.5; 0;0;0;0

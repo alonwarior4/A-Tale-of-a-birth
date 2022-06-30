@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d85dc24a229c944da7fb504b0003a32, type: 3}
+  m_Name: Ds1
+  m_EditorClassIdentifier: 
+  deskActions:
+  - d_DeskJob: 6
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 0
+    d_IsCamera: 1
+    d_Sprite: {fileID: 0}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: notebook zoomin
+    d_animSpeed: 1
+    d_Position: {x: 0, y: 0, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 3
+    d_PuzzlePrefab: {fileID: 1456395845573131834, guid: 0184bbdd94a50fa4b9ae62ecb472405f, type: 3}
+    d_PuzzleTryTime: 5
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 1
+    d_Sprite: {fileID: 21300000, guid: 798e92c26dee44847aed8c04ccf780c6, type: 3}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 5
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: notebook zoomin
+    d_animSpeed: 1
+    d_Position: {x: -0.294, y: -0.297, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 3
+    d_PuzzlePrefab: {fileID: 3401891856393907179, guid: 0d85d8c84be26cd4ea28e9420ebd1d69, type: 3}
+    d_PuzzleTryTime: 5
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 1
+    d_Sprite: {fileID: 21300000, guid: 798e92c26dee44847aed8c04ccf780c6, type: 3}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 5
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: notebook zoomin
+    d_animSpeed: 1
+    d_Position: {x: -0.17912295, y: 0.5689682, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 3
+    d_PuzzlePrefab: {fileID: 7521349156007963014, guid: e5b1847e93e2d304b916c6eb1234d08f, type: 3}
+    d_PuzzleTryTime: 5
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 1
+    d_Sprite: {fileID: 21300000, guid: 798e92c26dee44847aed8c04ccf780c6, type: 3}
+    d_ReplaceSprite: {fileID: 0}
+    d_Ftime: 5
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: 
+    d_triggerName: notebook zoomin
+    d_animSpeed: 1
+    d_Position: {x: -0.367, y: 0.589, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 5
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 1
+    d_Sprite: {fileID: 0}
+    d_ReplaceSprite: {fileID: 4946213700775913105, guid: d3abaa626f5b4f541937dba33dddc63e, type: 3}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 1
+    d_ObjName: window
+    d_triggerName: notebook zoomin
+    d_animSpeed: 1
+    d_Position: {x: 0, y: 0, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0, y: 0, z: 0}
+  - d_DeskJob: 4
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 0
+    d_IsCamera: 1
+    d_Sprite: {fileID: -2992344644316309151, guid: d3abaa626f5b4f541937dba33dddc63e, type: 3}
+    d_ReplaceSprite: {fileID: 21300000, guid: 8f9df5a85c276b84797c5a25bfbdee9f, type: 3}
+    d_Ftime: 0.25
+    d_SortingOrder: 2
+    d_SortingLayerName: Wall
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 1
+    d_UseLater: 0
+    d_isExistInScene: 1
+    d_ObjName: window
+    d_triggerName: notebook zoomin
+    d_animSpeed: 1
+    d_Position: {x: -0.885, y: -0.156, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - d_DeskJob: 6
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 2
+    d_IsCamera: 1
+    d_Sprite: {fileID: 21300000, guid: 60cd2e6a320d291408e70fcf4c595ad7, type: 3}
+    d_ReplaceSprite: {fileID: 21300000, guid: 8f9df5a85c276b84797c5a25bfbdee9f, type: 3}
+    d_Ftime: 0
+    d_SortingOrder: 0
+    d_SortingLayerName: 
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 0
+    d_isExistInScene: 0
+    d_ObjName: window
+    d_triggerName: notebook zoomout
+    d_animSpeed: 1
+    d_Position: {x: -0.885, y: -0.156, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - d_DeskJob: 4
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 1
+    d_WaitTime: 0.2
+    d_IsCamera: 1
+    d_Sprite: {fileID: -1073942574825503656, guid: f6821fe9f2dddb04bbf0b8a5adaf2279, type: 3}
+    d_ReplaceSprite: {fileID: 21300000, guid: 8f9df5a85c276b84797c5a25bfbdee9f, type: 3}
+    d_Ftime: 0.7
+    d_SortingOrder: 1
+    d_SortingLayerName: Desk
+    d_Sound: {fileID: 8300000, guid: 60c7f47d3a5bf3243a88feb48013d220, type: 3}
+    d_Volume: 0.5
+    d_SetWallChild: 0
+    d_UseLater: 1
+    d_isExistInScene: 0
+    d_ObjName: window
+    d_triggerName: notebook zoomout
+    d_animSpeed: 1
+    d_Position: {x: 2.142, y: 0.838, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.5, y: 0.5, z: 0.5}
+  - d_DeskJob: 4
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 0
+    d_WaitTime: 0
+    d_IsCamera: 1
+    d_Sprite: {fileID: -4835090959583471907, guid: f6821fe9f2dddb04bbf0b8a5adaf2279, type: 3}
+    d_ReplaceSprite: {fileID: 21300000, guid: 8f9df5a85c276b84797c5a25bfbdee9f, type: 3}
+    d_Ftime: 0.7
+    d_SortingOrder: 1
+    d_SortingLayerName: Desk
+    d_Sound: {fileID: 8300000, guid: 9ead3983f07b9484ba338172a72ef1b4, type: 3}
+    d_Volume: 0.5
+    d_SetWallChild: 0
+    d_UseLater: 1
+    d_isExistInScene: 0
+    d_ObjName: window
+    d_triggerName: notebook zoomout
+    d_animSpeed: 1
+    d_Position: {x: 2.24, y: -0.88, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.25, y: 0.25, z: 0.25}
+  - d_DeskJob: 5
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 0
+    d_WaitTime: 2
+    d_IsCamera: 1
+    d_Sprite: {fileID: 21300000, guid: a03ad1ee6157baf4fa05078c8c2cc5b3, type: 3}
+    d_ReplaceSprite: {fileID: 21300000, guid: 592ee59354ec0ba4fbd4437f4007e131, type: 3}
+    d_Ftime: 1
+    d_SortingOrder: 2
+    d_SortingLayerName: Desk
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 1
+    d_isExistInScene: 1
+    d_ObjName: wall 5 preview
+    d_triggerName: notebook zoomout
+    d_animSpeed: 1
+    d_Position: {x: 2.748166, y: 0.355913, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.7, y: 0.7, z: 0.7}
+  - d_DeskJob: 5
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 0
+    d_WaitTime: 2
+    d_IsCamera: 1
+    d_Sprite: {fileID: 21300000, guid: a03ad1ee6157baf4fa05078c8c2cc5b3, type: 3}
+    d_ReplaceSprite: {fileID: 21300000, guid: ffae96cb26574b6428ad45cfd00a3f1d, type: 3}
+    d_Ftime: 1
+    d_SortingOrder: 2
+    d_SortingLayerName: Desk
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 1
+    d_isExistInScene: 1
+    d_ObjName: wall5 blur
+    d_triggerName: notebook zoomout
+    d_animSpeed: 1
+    d_Position: {x: 2.748166, y: 0.355913, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.7, y: 0.7, z: 0.7}
+  - d_DeskJob: 5
+    d_PuzzlePrefab: {fileID: 0}
+    d_PuzzleTryTime: 0
+    d_IsSimultaneously: 0
+    d_WaitTime: 2
+    d_IsCamera: 1
+    d_Sprite: {fileID: 21300000, guid: a03ad1ee6157baf4fa05078c8c2cc5b3, type: 3}
+    d_ReplaceSprite: {fileID: 21300000, guid: 3e738576436298f4d95951bbb5372c1e, type: 3}
+    d_Ftime: 1
+    d_SortingOrder: 2
+    d_SortingLayerName: Desk
+    d_Sound: {fileID: 0}
+    d_Volume: 0
+    d_SetWallChild: 0
+    d_UseLater: 1
+    d_isExistInScene: 1
+    d_ObjName: desk 1
+    d_triggerName: notebook zoomout
+    d_animSpeed: 1
+    d_Position: {x: 2.748166, y: 0.355913, z: 0}
+    d_Rotation: {x: 0, y: 0, z: 0, w: 1}
+    d_Scale: {x: 0.7, y: 0.7, z: 0.7}

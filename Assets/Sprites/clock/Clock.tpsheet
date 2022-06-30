@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:dadd8f6e95ed343bffd9719c2c87f23c:019a646af1b3c08f9a91171807df3e0b:febb78de6a2d2d672a0cae278f0906ed$
+#
+:format=40300
+:texture=Clock.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+big;1;781;30;242; 0.485;0.18599999999999994; 0;0;0;0
+small;33;838;30;185; 0.485;0.75; 0;0;0;0
+watch;1;299;480;480; 0.5;0.5; 0;0;0;0
