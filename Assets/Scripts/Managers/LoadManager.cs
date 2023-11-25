@@ -41,7 +41,8 @@ public class LoadManager : MonoBehaviour
 
 
 
-        TapsellAdManager._Instance.ShowFirstTapsellAd();
+        //TapsellAdManager._Instance.ShowFirstTapsellAd();
+        TapsellAdManager._Instance.RequestAndShowAd();
 
     }
 

@@ -1,16 +1,41 @@
 version: 2
-importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 - Assets/Sprites/clock/Clock.tpsheet
 - Assets/Sprites/desk/DeskObj.tpsheet
 - Assets/Sprites/desk/Sprite Sheets/Desk.tpsheet
+- Assets/Sprites/Environment/Sheet_Floors.tpsheet
 - Assets/Sprites/MicrosCope/Mask Micro.tpsheet
+- Assets/Sprites/New Art Test/Box/Box Particles/box particle.tpsheet
+- Assets/Sprites/New Art Test/Elements/Elements.tpsheet
+- Assets/Sprites/New Art Test/Elements/glass parts.tpsheet
+- Assets/Sprites/New Art Test/Elements/Pull Sheet.tpsheet
+- Assets/Sprites/New Art Test/UI/Setting.tpsheet
+- Assets/Sprites/Other/Zombie Characters.tpsheet
 - Assets/Sprites/Puzzles/sorang/syringe fillig.tpsheet
 - Assets/Sprites/Puzzles/Sprite Sheets/P_front parts.tpsheet
 - Assets/Sprites/Puzzles/Sprite Sheets/Syringe Parts.tpsheet
 - Assets/Sprites/Puzzles/virus/virus Coloring.tpsheet
 - Assets/Sprites/Puzzles/virus/virus vfx.tpsheet
+- Assets/Sprites/Sprite Sheets/Apocalypse 1.tpsheet
+- Assets/Sprites/Sprite Sheets/Apocalypse 2.tpsheet
+- Assets/Sprites/Sprite Sheets/Buildings.tpsheet
+- Assets/Sprites/Sprite Sheets/capsule fire.tpsheet
+- Assets/Sprites/Sprite Sheets/Characters.tpsheet
+- Assets/Sprites/Sprite Sheets/Dis_BG.tpsheet
+- Assets/Sprites/Sprite Sheets/Door_Open.tpsheet
+- Assets/Sprites/Sprite Sheets/G_Door.tpsheet
+- Assets/Sprites/Sprite Sheets/Ghost.tpsheet
+- Assets/Sprites/Sprite Sheets/Muzzle.tpsheet
+- Assets/Sprites/Sprite Sheets/OC_Door.tpsheet
+- Assets/Sprites/Sprite Sheets/P_Door.tpsheet
+- Assets/Sprites/Sprite Sheets/Sheet_BloodSurface.tpsheet
+- Assets/Sprites/Sprite Sheets/Smoke 2.tpsheet
+- Assets/Sprites/Sprite Sheets/Smoke 3.tpsheet
+- Assets/Sprites/Sprite Sheets/Smoke 4.tpsheet
+- Assets/Sprites/Sprite Sheets/Smoke 5.tpsheet
+- Assets/Sprites/Sprite Sheets/Warzone 1.tpsheet
+- Assets/Sprites/Sprite Sheets/Warzone 2.tpsheet
 - Assets/Sprites/Story Animations/scene 1.tpsheet
 - Assets/Sprites/Story Animations/scene 10 -2.tpsheet
 - Assets/Sprites/Story Animations/scene 11.tpsheet
@@ -36,18 +61,44 @@ tpsheetFileNames:
 - Assets/Sprites/wall/Sprite Sheets/Wall0_3.tpsheet
 - Assets/Sprites/wall/Sprite Sheets/Wall4_12.tpsheet
 - Assets/Sprites/watch/Watch Parts.tpsheet
-- Assets/Sprites/watch/watch.tpsheet
+- Assets/Sprites/zombie/Sheet_Zombie.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 - Assets/Sprites/clock/Clock.png
 - Assets/Sprites/desk/DeskObj.png
 - Assets/Sprites/desk/Sprite Sheets/Desk.png
+- Assets/Sprites/Environment/Sheet_Floors.png
 - Assets/Sprites/MicrosCope/Mask Micro.png
+- Assets/Sprites/New Art Test/Box/Box Particles/box particle.png
+- Assets/Sprites/New Art Test/Elements/Elements.png
+- Assets/Sprites/New Art Test/Elements/glass parts.png
+- Assets/Sprites/New Art Test/Elements/Pull Sheet.png
+- Assets/Sprites/New Art Test/UI/Setting.png
+- Assets/Sprites/Other/Zombie Characters.png
 - Assets/Sprites/Puzzles/sorang/syringe fillig.png
 - Assets/Sprites/Puzzles/Sprite Sheets/P_front parts.png
 - Assets/Sprites/Puzzles/Sprite Sheets/Syringe Parts.png
 - Assets/Sprites/Puzzles/virus/virus Coloring.png
 - Assets/Sprites/Puzzles/virus/virus vfx.png
+- Assets/Sprites/Sprite Sheets/Apocalypse 1.png
+- Assets/Sprites/Sprite Sheets/Apocalypse 2.png
+- Assets/Sprites/Sprite Sheets/Buildings.png
+- Assets/Sprites/Sprite Sheets/capsule fire.png
+- Assets/Sprites/Sprite Sheets/Characters.png
+- Assets/Sprites/Sprite Sheets/Dis_BG.png
+- Assets/Sprites/Sprite Sheets/Door_Open.png
+- Assets/Sprites/Sprite Sheets/G_Door.png
+- Assets/Sprites/Sprite Sheets/Ghost.png
+- Assets/Sprites/Sprite Sheets/Muzzle.png
+- Assets/Sprites/Sprite Sheets/OC_Door.png
+- Assets/Sprites/Sprite Sheets/P_Door.png
+- Assets/Sprites/Sprite Sheets/Sheet_BloodSurface.png
+- Assets/Sprites/Sprite Sheets/Smoke 2.png
+- Assets/Sprites/Sprite Sheets/Smoke 3.png
+- Assets/Sprites/Sprite Sheets/Smoke 4.png
+- Assets/Sprites/Sprite Sheets/Smoke 5.png
+- Assets/Sprites/Sprite Sheets/Warzone 1.png
+- Assets/Sprites/Sprite Sheets/Warzone 2.png
 - Assets/Sprites/Story Animations/scene 1.png
 - Assets/Sprites/Story Animations/scene 10 -2.png
 - Assets/Sprites/Story Animations/scene 11.png
@@ -73,9 +124,35 @@ textureFileNames:
 - Assets/Sprites/wall/Sprite Sheets/Wall0_3.png
 - Assets/Sprites/wall/Sprite Sheets/Wall4_12.png
 - Assets/Sprites/watch/Watch Parts.png
-- Assets/Sprites/watch/Watch.png
+- Assets/Sprites/zombie/Sheet_Zombie.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - 
 - 
 - 

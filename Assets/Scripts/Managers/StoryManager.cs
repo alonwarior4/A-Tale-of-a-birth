@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.U2D;
 using UnityEngine.UI;
-using TapsellSDK;
+using TapsellPlusSDK;
 
 public class StoryManager : MonoBehaviour
 {
@@ -109,9 +109,9 @@ public class StoryManager : MonoBehaviour
     [SerializeField] AudioSource clockAS;
 
     //TODO : for tapsell advertisement uncomment below line
-    const string TAPSELL_KEY = "jmeqimfjoftlmrdcciqtjqkjfnnodgtggiplidtgilnkcqookimrhlgkirgcgsookpqcrp";
-    const string ZONE_ID = "5f796cf2986c27000137075e";
-    TapsellAd tapsellLoadedAd = null;
+    //const string TAPSELL_KEY = "jmeqimfjoftlmrdcciqtjqkjfnnodgtggiplidtgilnkcqookimrhlgkirgcgsookpqcrp";
+    //const string ZONE_ID = "5f796cf2986c27000137075e";
+    //TapsellPlusAdModel tapsellLoadedAd = null;
 
 
 
@@ -176,22 +176,22 @@ public class StoryManager : MonoBehaviour
 
 
 
-    IEnumerator SendRequestForAdvertisement()
-    {
-        RequestForAd();
-        yield return new WaitForSeconds(5.5f);
-        if (tapsellLoadedAd == null)
-        {
-            RequestForAd();
-        }
-    }
+    //IEnumerator SendRequestForAdvertisement()
+    //{
+    //    RequestForAd();
+    //    yield return new WaitForSeconds(5.5f);
+    //    if (tapsellLoadedAd == null)
+    //    {
+    //        RequestForAd();
+    //    }
+    //}
 
     
-    private void RequestForAd()
-    {
-        Tapsell.RequestAd(ZONE_ID, true, (TapsellAd resault) => { tapsellLoadedAd = resault; }, (string noAd) => { Debug.Log("no ad available"); },
-            (TapsellError error) => { Debug.Log(error.message); }, (string noNetwork) => { Debug.Log("no network available"); }, (TapsellAd expiredAd) => { tapsellLoadedAd = null; });
-    }
+    //private void RequestForAd()
+    //{
+    //    Tapsell.RequestAd(ZONE_ID, true, (TapsellAd resault) => { tapsellLoadedAd = resault; }, (string noAd) => { Debug.Log("no ad available"); },
+    //        (TapsellError error) => { Debug.Log(error.message); }, (string noNetwork) => { Debug.Log("no network available"); }, (TapsellAd expiredAd) => { tapsellLoadedAd = null; });
+    //}
 
     private void OnDestroy()
     {
@@ -952,10 +952,11 @@ public class StoryManager : MonoBehaviour
     //TODO : for Tapsel Ad
     public void ShowTapsellLoadedAd()
     {
-        if (tapsellLoadedAd != null)
-        {
-            Tapsell.ShowAd(tapsellLoadedAd, new TapsellShowOptions());
-        }
+        //if (tapsellLoadedAd != null)
+        //{
+        //    Tapsell.ShowAd(tapsellLoadedAd, new TapsellShowOptions());
+        //}
+        TapsellAdManager._Instance.RequestAndShowAd();
     }
 
     public void DisableResetButtons()
@@ -1459,7 +1460,7 @@ public class StoryManager : MonoBehaviour
     IEnumerator PlayButtonCoroutine()
     {
         //TODO : for tapsel ad
-        StartCoroutine(SendRequestForAdvertisement());
+        //StartCoroutine(SendRequestForAdvertisement());
 
 
         playBtn.gameObject.SetActive(false);

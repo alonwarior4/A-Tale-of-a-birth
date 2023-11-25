@@ -111,7 +111,7 @@ TextureImporter:
       213: -8295493469890400570
     second: new Scene 6_00072
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -128,10 +128,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -141,8 +143,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -163,11 +165,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -179,6 +185,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -191,6 +198,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -203,6 +211,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -974,9 +996,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      new Scene 6_00037: 2349225833147194146
+      new Scene 6_00038: 4641471157230230614
+      new Scene 6_00039: 4022394872317230633
+      new Scene 6_00040: 349868053027012652
+      new Scene 6_00041: 5180398334701652656
+      new Scene 6_00042: -5157027465933529056
+      new Scene 6_00043: 585385871595513337
+      new Scene 6_00044: 674749680232919380
+      new Scene 6_00045: -6437289925763559137
+      new Scene 6_00046: -1092319872227009354
+      new Scene 6_00047: 3588417310769233517
+      new Scene 6_00048: -4117559769828520640
+      new Scene 6_00049: -1567969668030810021
+      new Scene 6_00050: 2166070408831211268
+      new Scene 6_00051: 9121384662623646019
+      new Scene 6_00052: 8456151195542864624
+      new Scene 6_00053: 3032779532552796866
+      new Scene 6_00054: 6505272523679984117
+      new Scene 6_00055: 7898399753741530836
+      new Scene 6_00056: -7659204041474534450
+      new Scene 6_00057: -5176488061767251771
+      new Scene 6_00058: 1779894739038241981
+      new Scene 6_00059: 642215841290034791
+      new Scene 6_00060: -7633201274228604654
+      new Scene 6_00061: -617804885355297121
+      new Scene 6_00062: 5454996075086431513
+      new Scene 6_00063: -2134407830961648348
+      new Scene 6_00064: 6225085489207658462
+      new Scene 6_00065: -3561608119692973898
+      new Scene 6_00066: -4592512360210617364
+      new Scene 6_00067: 5131050260088543194
+      new Scene 6_00068: 8821857187787361077
+      new Scene 6_00069: -190710655810751582
+      new Scene 6_00070: 7161525560168882239
+      new Scene 6_00071: 2591632343463921545
+      new Scene 6_00072: -8295493469890400570
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

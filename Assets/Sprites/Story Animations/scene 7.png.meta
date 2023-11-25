@@ -108,7 +108,7 @@ TextureImporter:
       213: 8180304452269288157
     second: scene 7_00035
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -125,10 +125,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -138,8 +140,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 1
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -160,11 +162,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -176,6 +182,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -188,6 +195,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -200,6 +208,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -950,9 +972,44 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      scene 7_00001: 2605395750504817194
+      scene 7_00002: -2229007317985000338
+      scene 7_00003: 1269248926663218413
+      scene 7_00004: 971507542200133500
+      scene 7_00005: -76219362891011235
+      scene 7_00006: 3530303696658326206
+      scene 7_00007: 2724012406367544504
+      scene 7_00008: 5015292483201579189
+      scene 7_00009: -8524507797112226387
+      scene 7_00010: -4757909164910482973
+      scene 7_00011: -9159046014914794775
+      scene 7_00012: 6672522987947518653
+      scene 7_00013: -471383533959568265
+      scene 7_00014: 361017076974576422
+      scene 7_00015: -3825034334289696468
+      scene 7_00016: 1110832444636185403
+      scene 7_00017: 2562088527876302521
+      scene 7_00018: -7414701363554203893
+      scene 7_00019: 7995378743039206433
+      scene 7_00020: -652651098506898618
+      scene 7_00021: 7763163201946733107
+      scene 7_00022: -4107092109700092369
+      scene 7_00023: -8730324971567163335
+      scene 7_00024: -6700899051719035342
+      scene 7_00025: 8810868039619791544
+      scene 7_00026: -4561822915193662702
+      scene 7_00027: 7438579884512029140
+      scene 7_00028: -3862284260108856878
+      scene 7_00029: -8604269993719545854
+      scene 7_00030: 7514701749940745160
+      scene 7_00031: 7996808312031362686
+      scene 7_00032: -4402941685063119513
+      scene 7_00033: 7656647190592030678
+      scene 7_00034: 566494251969527015
+      scene 7_00035: 8180304452269288157
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

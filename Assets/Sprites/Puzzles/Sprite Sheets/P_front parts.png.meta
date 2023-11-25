@@ -264,7 +264,7 @@ TextureImporter:
       213: -6450254813156203092
     second: virus
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -281,10 +281,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -293,9 +295,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -316,11 +318,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -332,6 +338,46 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -2174,9 +2220,96 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      Bullet: -768287472138149725
+      S_filling_00001: -5520803030253673527
+      S_filling_00002: -5855642244390015789
+      S_filling_00003: -2713697509167954650
+      S_filling_00004: -6837987484618420343
+      S_filling_00005: 446433155556494627
+      S_filling_00006: -7366307987757006742
+      S_filling_00007: 4405830687472136319
+      S_filling_00008: -4100128173918199036
+      S_filling_00009: 8075265157742592740
+      S_filling_00010: 3015097765704142695
+      S_filling_00011: -8728681832412295310
+      S_filling_00012: -1917618022994763395
+      S_filling_00013: -8945961175243257357
+      S_filling_00014: -8318789687134624603
+      S_filling_00015: -8860138104498673955
+      S_filling_00016: -4160720514352625188
+      S_filling_00017: -4119465576709062116
+      S_filling_00018: 5478969809464686022
+      S_filling_00019: -2522826697904664206
+      S_filling_00020: 2063470566452196581
+      S_filling_00021: -9119861028179786105
+      S_filling_00022: -6895299301541796663
+      S_filling_00023: 381370390432567287
+      S_filling_00024: -1668408365587087528
+      S_filling_00025: -1391736352788868808
+      S_filling_00026: -6039884174546046826
+      S_filling_00027: -7240119232793141344
+      S_filling_00028: -4659421627248421563
+      S_filling_00029: 3261830877763549120
+      S_filling_00030: -2093478709952456668
+      S_filling_00031: -6643850970244462204
+      S_filling_00032: -8921381986091952487
+      S_filling_00033: -388725830626674769
+      S_filling_00034: -292285393882570487
+      Virus Coloring_00001: 1296168191608073735
+      Virus Coloring_00002: -6362912756916889759
+      Virus Coloring_00003: -2020644817031019917
+      Virus Coloring_00004: 5830561915210751758
+      Virus Coloring_00005: 699456962318702906
+      Virus Coloring_00006: 365084729822651617
+      Virus Coloring_00007: 1081254685615401118
+      Virus Coloring_00008: -2087732348152606350
+      Virus Coloring_00009: 8601419203865571431
+      Virus Coloring_00010: -4926655883825695696
+      Virus Coloring_00011: 5940757934938623543
+      Virus Coloring_00012: 3518867605404319107
+      Virus Coloring_00013: -5242460198986653661
+      Virus Coloring_00014: -6364366088004144734
+      Virus Coloring_00015: -5791329142320950776
+      Virus Coloring_00016: -4527538997676707939
+      Virus Coloring_00017: -1790531149817284050
+      Virus Coloring_00018: 1689092544954521634
+      Virus Coloring_00019: 4173609546936394974
+      Virus Coloring_00020: -3967529252647164282
+      Virus Coloring_00021: -4445217819612190698
+      Virus Coloring_00022: -7133431799750607901
+      Virus Coloring_00023: 6015091882269482748
+      Virus Coloring_00024: -7880687084247052193
+      red blue virus: 8879151414811702758
+      red yellow virus: 8677787644162457504
+      sorang colored part2: -9101785704697772626
+      v_Vfx_00001: -3431087472512999577
+      v_Vfx_00002: -5963007373569457405
+      v_Vfx_00003: 8881093678090566823
+      v_Vfx_00004: -6804924367425106362
+      v_Vfx_00005: -7984211069043899092
+      v_Vfx_00006: -4243153417933442295
+      v_Vfx_00007: 2112067546698335650
+      v_Vfx_00008: 9030219641352080294
+      v_Vfx_00009: -2785763761205325509
+      v_Vfx_00010: -3360029148027033454
+      v_Vfx_00011: -2604281484702392960
+      v_Vfx_00012: 6905819522550024479
+      v_Vfx_00013: -8838787418641084070
+      v_Vfx_00014: -3870195857513678918
+      v_Vfx_00015: -6911965927651565831
+      v_Vfx_00016: 2284453808812705490
+      v_Vfx_00017: 5966148988584770291
+      v_Vfx_00018: 7993762942439045868
+      v_Vfx_00019: 1901480982536099361
+      v_Vfx_00020: 1046778220899635365
+      v_Vfx_00021: 660502678516416515
+      v_Vfx_00022: 1739456751252576751
+      v_Vfx_00023: -1383862562131230138
+      v_Vfx_00024: -5395535098179483659
+      virus: -6450254813156203092
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

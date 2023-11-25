@@ -105,7 +105,7 @@ TextureImporter:
       213: 4821242958025582446
     second: syringe filling_00034
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -122,10 +122,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -134,9 +136,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -157,11 +159,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -173,6 +179,7 @@ TextureImporter:
     crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -185,6 +192,7 @@ TextureImporter:
     crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -197,6 +205,20 @@ TextureImporter:
     crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -926,9 +948,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      syringe filling_00001: -1264262014509616235
+      syringe filling_00002: 8854382774714638955
+      syringe filling_00003: 8930535180627413355
+      syringe filling_00004: -4378086430303667767
+      syringe filling_00005: 7219927155992306341
+      syringe filling_00006: 7857611005856658124
+      syringe filling_00007: 1519829939043071511
+      syringe filling_00008: 3308781671595775483
+      syringe filling_00009: -6050559091380880572
+      syringe filling_00010: -8350804462329172207
+      syringe filling_00011: -4437528364725361433
+      syringe filling_00012: 8195551008280754333
+      syringe filling_00013: -5721524674620667060
+      syringe filling_00014: -572958597274810926
+      syringe filling_00015: -2655545760470762186
+      syringe filling_00016: -9209745883582729743
+      syringe filling_00017: -7544222787836313749
+      syringe filling_00018: -5403505046749238158
+      syringe filling_00019: 2669545812110951623
+      syringe filling_00020: -795895259413121975
+      syringe filling_00021: 9048649022172549096
+      syringe filling_00022: 2621647707827049131
+      syringe filling_00023: 3058129853974246997
+      syringe filling_00024: 1947329225949691633
+      syringe filling_00025: -9122194544965325696
+      syringe filling_00026: -9942912539738236
+      syringe filling_00027: -5039929797614361446
+      syringe filling_00028: 4885358548659808564
+      syringe filling_00029: 3314816442037132557
+      syringe filling_00030: 4539932593882872388
+      syringe filling_00031: 8336877310628331407
+      syringe filling_00032: -2509521760637391695
+      syringe filling_00033: -4124378597408110457
+      syringe filling_00034: 4821242958025582446
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
